@@ -1,5 +1,8 @@
 import { useState } from 'react';
 
+// styles 
+import styles from './App.css';
+
 // components
 import SearchBar from './components/SearchBar/SeachBar';
 import SearchResults from './components/SearchResults/SearchResults';
